@@ -64,9 +64,9 @@ CUDA_VISIBLE_DEVICES="0" python -m torch.distributed.launch --nproc_per_node 1 d
 ```
 
 ## TODO List and ETA
-- [] Inference code and pretrained models (2025-4-7)
-- [] Code for reproducing the test-set results (2025-5-7)
-- [] Training code and training data preparation (expected 2025-6-10)
+- [ ] Inference code and pretrained models (2025-4-7)
+- [ ] Code for reproducing the test-set results (2025-5-7)
+- [ ] Training code and training data preparation (expected 2025-6-10)
 ### Acknowledgments
 We thank the following open-source project for the help of the implementations:
 - [LoFTR](https://github.com/zju3dv/LoFTR) 

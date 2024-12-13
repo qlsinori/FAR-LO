@@ -20,7 +20,7 @@ Our model only depends on the following commonly used packages.
 
 Device: Tesla V100-PCIE-32GB*8
 
-## Install the pointnet2 library
+## Install the pointnet2 library and CUDA-based KNN searching and random searching
 Compile the required library [Reference: [RegFormer] (https://github.com/IRMVLab/RegFormer)].
 ```bash
 cd pointnet2

@@ -64,7 +64,7 @@ CUDA_VISIBLE_DEVICES="0" python -m torch.distributed.launch --nproc_per_node 1 d
 Please reminder to specify the parameter in the scripts.
 
 ## TODO List and ETA
-- [ ] Inference code and pretrained models (2024-12-13)
+- [x] Inference code and pretrained models (2024-12-13)
 - [ ] Code for reproducing the test-set results (2025-3-7)
 - [ ] Training code and training data preparation (expected 2025-4-10)
 

@@ -65,8 +65,8 @@ Please reminder to specify the parameter in the scripts.
 
 ## TODO List and ETA
 - [x] Inference code and pretrained models (2024-12-13)
-- [ ] Code for reproducing the test-set results (2025-3-7)
-- [ ] Training code and training data preparation (expected 2025-4-10)
+- [ ] Code for reproducing the test-set results 
+- [ ] Training code and training data preparation 
 
 
 ### Acknowledgments

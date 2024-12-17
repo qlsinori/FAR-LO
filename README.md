@@ -1,5 +1,5 @@
 # FAR-LO
-Neural LiDAR Odometry with Feature Association and Reuse for Unstructured environments. Coming soon !!!!!!!
+Neural LiDAR Odometry with Feature Association and Reuse for Unstructured environments.
 <img width="1268" alt="overall3" src="https://github.com/user-attachments/assets/29728bc5-d1df-4da3-9f94-b9c1e37ac9c7" />
 
 ## Abstract
